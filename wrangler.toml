@@ -1,0 +1,9 @@
+name = "decor-sparkle-connect"
+compatibility_date = "2024-01-01"
+
+[env.production]
+name = "decor-sparkle-connect"
+
+[[pages_builds]]
+build_command = "npm run build:cf"
+build_output_directory = "dist"
