@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 const App = () => {
   return (
     <div style={{ padding: 24, fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" }}>
@@ -6,5 +7,8 @@ const App = () => {
     </div>
   );
 };
+=======
+const App = () => null;
+>>>>>>> Stashed changes
 
 export default App;
